@@ -2,6 +2,8 @@
 
 # wfirma-sdk-python
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 _Unofficial, minimal Python SDK for the wFirma.pl API (API Key & OAuth2)._  
 **Status:** prototype for integrations. Before production, verify scopes, payloads and responses with official docs.
 
