@@ -2,7 +2,6 @@
 
 # wfirma-sdk-python
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 _Unofficial, minimal Python SDK for the wFirma.pl API (API Key & OAuth2)._  
 **Status:** prototype for integrations. Before production, verify scopes, payloads and responses with official docs.
@@ -86,7 +85,7 @@ To run the demo example:
 
 ```bash
 # Clone the repository
-git clone https://github.com/musictechlab/mtl-wfirma-python-sdk.git
+git clone https://github.com/msmenzyk/mtl-wfirma-python-sdk.git
 cd mtl-wfirma-python-sdk
 
 # Install dependencies with poetry
@@ -347,16 +346,16 @@ To report a vulnerability, please see [SECURITY.md](SECURITY.md).
 
 ## License
 
-MIT License — © 2025 **MusicTech Lab** — see [LICENSE](LICENSE) for details.
+MIT License — © 2025 **Mariusz Smenżyk** — see [LICENSE](LICENSE) for details.
 
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>

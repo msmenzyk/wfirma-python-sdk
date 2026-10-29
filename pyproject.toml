@@ -2,11 +2,11 @@
 name = "mtl-wfirma-python-sdk"
 version = "0.0.6"
 description = "A tiny Python SDK for wFirma.pl API (unofficial)"
-authors = ["MusicTech Lab <mariusz.smenzyk@musictechlab.io>"]
+authors = ["Mariusz Smenżyk <mariusz@mtl.dev>"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/musictechlab/mtl-wfirma-python-sdk"
-repository = "https://github.com/musictechlab/mtl-wfirma-python-sdk"
+homepage = "https://github.com/msmenzyk/mtl-wfirma-python-sdk"
+repository = "https://github.com/msmenzyk/mtl-wfirma-python-sdk"
 keywords = ["wfirma", "sdk", "api"]
 classifiers = [
     "Programming Language :: Python :: 3",

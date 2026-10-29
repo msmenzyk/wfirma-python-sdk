@@ -6,7 +6,7 @@ If you discover a security vulnerability in this project, please report it respo
 
 **Do not open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email us at: **opensource@musictechlab.io**
+Instead, please email us at: **mariusz@mtl.dev**
 
 Include:
 - A description of the vulnerability
