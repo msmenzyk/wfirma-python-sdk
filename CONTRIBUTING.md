@@ -15,7 +15,7 @@ Thank you for your interest in contributing! We welcome all contributions — bu
 ## Development Setup
 
 ```bash
-git clone https://github.com/musictechlab/mtl-wfirma-python-sdk.git
+git clone https://github.com/msmenzyk/mtl-wfirma-python-sdk.git
 cd mtl-wfirma-python-sdk
 poetry install
 ```
